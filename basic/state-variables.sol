@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0
-// Declara a versão do programa
+// Declarar a versão do programa
 
 pragma solidity ^0.8.10;
 
