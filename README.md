@@ -10,7 +10,7 @@
 - [Linguagem utilizada](#-Linguagem-utilizada)
 - [Onde encontrar o curso?](#-onde-encontrar-o-curso)
 
-## 📑 Sobre: 
+## 📖 Sobre: 
 
 O projeto **Solidity, Blockchain, and Smart Contract Course** é um curso da linguagem de programação **Solidity** - totalmente gratuito e em inglês -, que foi ministrado pelo **Patrick Collins**, no canal do Youtube da **FreeCodeCamp**. 
 
@@ -18,7 +18,7 @@ O projeto **Solidity, Blockchain, and Smart Contract Course** é um curso da lin
 
 - [Solidity](https://soliditylang.org/)
 
-## 📑 Onde encontrar o curso:
+## 🔍 Onde encontrar o curso:
 
 - [Youtube](https://www.youtube.com/watch?v=M576WGiDBdQ&t=0s)
 
