@@ -3,6 +3,7 @@
 ![github compecraveiro](https://user-images.githubusercontent.com/79882049/148589610-2b4eae7c-4473-4e88-812b-ea6f0f09e88b.gif)
 
 </div>
+
 ## 💡 Índice
 
 - [Sobre](#-sobre)
