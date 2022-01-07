@@ -1,10 +1,8 @@
-<!-- Colocar uma logo no projeto -->
-<!-- HTML -->
-<h1 align="center">
-    <img src="https://ik.imagekit.io/elankfmjpxmn/Design_sem_nome_owtJRgf7Y.gif?updatedAt=1639443153973"> <!-- URL da imagen -->
-</h1>
-<!-- Arrumar o ícone -->
+<div align = "center">
+    
+    ![github compecraveiro](https://user-images.githubusercontent.com/79882049/148589610-2b4eae7c-4473-4e88-812b-ea6f0f09e88b.gif)
 
+</div>
 ## 💡 Índice
 
 - [Sobre](#-sobre)
